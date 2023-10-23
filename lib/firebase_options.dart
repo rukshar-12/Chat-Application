@@ -50,21 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBVXdsJbZMiE7QQWpKO0YWTXJJ2SmkyoL0',
-    appId: '1:548441366511:android:a1bb8ef10e69f0d97ca01a',
-    messagingSenderId: '548441366511',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'minichat-f4c70',
-    storageBucket: 'minichat-f4c70.appspot.com',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC1Wv110cSUord1iO1uoUQgCIct80sF1Kk',
-    appId: '1:548441366511:ios:19d808b9dc1550ae7ca01a',
-    messagingSenderId: '548441366511',
-    projectId: 'minichat-f4c70',
-    storageBucket: 'minichat-f4c70.appspot.com',
-    androidClientId: '548441366511-ie3l1a0dsetksr7npsqf9s7tnfdsup13.apps.googleusercontent.com',
-    iosClientId: '548441366511-h4mjs88gqd428cl702nld5cqr0jlo9sh.apps.googleusercontent.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '0',
+    storageBucket: '',
+    androidClientId: '',
+    iosClientId: '',
     iosBundleId: 'com.example.flutterApplication2',
   );
 }
